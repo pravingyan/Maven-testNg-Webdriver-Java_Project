@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-TestAll">
+              <span class="suite-name border-passed">TestAll</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-TestAll">
+                    <span>C:\Users\Laasya\Desktop\WebdriverUsingMavenAndTestNG-master\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-TestAll">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-TestAll">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-TestAll">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-TestAll">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-TestAll">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-TestAll">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">3 methods,   3 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-TestAll" class="hide-methods passed suite-TestAll"> (hide)</a> <!-- hide-methods passed suite-TestAll -->
+                      <a href="#" panel-name="suite-TestAll" class="show-methods passed suite-TestAll"> (show)</a> <!-- show-methods passed suite-TestAll -->
+                    </span>
+                    <div class="method-list-content passed suite-TestAll">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-TestAll" title="org.testng.homepage.HomePageTests" hash-for-method="verifyPageTitle(Weekend University)">verifyPageTitle(Weekend University)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-TestAll" title="org.testng.homepage.HomePageTests" hash-for-method="verifySuccessfullRegistration(Brown, Mark, 21/13 10th Street, River Side LA,USA, Newark, New Jersey, 4534534, Bachelor of Science ...)">verifySuccessfullRegistration(Brown, Mark, 21/13 10th Street, River Side LA,USA, Newark, New Jersey, 4534534, Bachelor of Science ...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-TestAll" title="org.testng.homepage.HomePageTests" hash-for-method="verifySuccessfullRegistration(Brown, Mark, 21/13 10th Street, River Side LA,USA, Newark, New Jersey, 4534534, Bachelor of Science ...)">verifySuccessfullRegistration(Brown, Mark, 21/13 10th Street, River Side LA,USA, Newark, New Jersey, 4534534, Bachelor of Science ...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-TestAll -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-TestAll" class="panel TestAll">
+          <div class="suite-TestAll-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">org.testng.homepage.HomePageTests</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyPageTitle(Weekend University)">
+                  </a> <!-- verifyPageTitle(Weekend University) -->
+                  <span class="method-name">verifyPageTitle</span>
+                  <span class="parameters">(Weekend University)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifySuccessfullRegistration(Brown, Mark, 21/13 10th Street, River Side LA,USA, Newark, New Jersey, 4534534, Bachelor of Science ...)">
+                  </a> <!-- verifySuccessfullRegistration(Brown, Mark, 21/13 10th Street, River Side LA,USA, Newark, New Jersey, 4534534, Bachelor of Science ...) -->
+                  <span class="method-name">verifySuccessfullRegistration</span>
+                  <span class="parameters">(Brown, Mark, 21/13 10th Street, River Side LA,USA, Newark, New Jersey, 4534534, Bachelor of Science in Information Technology, Essentials of Information Security, Master of Science in Engineering Management, Project Management, 3534534435, mark.brown@gmail.com, mark.brown@gmail.com, 1-800-624-9850)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifySuccessfullRegistration(Brown, Mark, 21/13 10th Street, River Side LA,USA, Newark, New Jersey, 4534534, Bachelor of Science ...)">
+                  </a> <!-- verifySuccessfullRegistration(Brown, Mark, 21/13 10th Street, River Side LA,USA, Newark, New Jersey, 4534534, Bachelor of Science ...) -->
+                  <span class="method-name">verifySuccessfullRegistration</span>
+                  <span class="parameters">(Brown, Mark, 21/13 10th Street, River Side LA,USA, Newark, New Jersey, 4534534, Bachelor of Science in Information Technology, Essentials of Information Security, Master of Science in Engineering Management, Project Management, 3534534435, mark.brown@gmail.com, mark.brown@gmail.com, 1-800-624-9850)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-TestAll-class-passed -->
+        </div> <!-- panel TestAll -->
+        <div panel-name="test-xml-TestAll" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\Laasya\Desktop\WebdriverUsingMavenAndTestNG-master\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite verbose=&quot;0&quot; name=&quot;TestAll&quot;&gt;
+  &lt;test name=&quot;HomePage Tests&quot;&gt;
+    &lt;parameter name=&quot;homePageTitle&quot; value=&quot;Weekend University&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;org.testng.homepage.HomePageTests&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;verifySuccessfullRegistration&quot;/&gt;
+          &lt;include name=&quot;verifyPageTitle&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- org.testng.homepage.HomePageTests --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- HomePage Tests --&gt;
+&lt;/suite&gt; &lt;!-- TestAll --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-TestAll" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for TestAll</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">HomePage Tests (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-TestAll" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for TestAll</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-TestAll" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for TestAll</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_TestAll');
+function tableData_TestAll() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(3);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'verifySuccessfullRegistration')
+data.setCell(0, 2, 'org.testng.homepage.HomePageTests')
+data.setCell(0, 3, 8148);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'verifySuccessfullRegistration')
+data.setCell(1, 2, 'org.testng.homepage.HomePageTests')
+data.setCell(1, 3, 7869);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'verifyPageTitle')
+data.setCell(2, 2, 'org.testng.homepage.HomePageTests')
+data.setCell(2, 3, 48);
+window.suiteTableData['TestAll']= { tableData: data, tableDiv: 'times-div-TestAll'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 16 seconds</span>
+              <div id="times-div-TestAll">
+              </div> <!-- times-div-TestAll -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-TestAll" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for TestAll</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-TestAll" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-TestAll" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">org.testng.homepage.HomePageTests</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeTest</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">954 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifySuccessfullRegistration(Brown, Mark, 21/13 10th Street, River Side LA,USA, Newark, New Jersey, 4534534, Bachelor of Science ...)</span>
+                <span class="method-start">35532 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">43401 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">44073 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifySuccessfullRegistration(Brown, Mark, 21/13 10th Street, River Side LA,USA, Newark, New Jersey, 4534534, Bachelor of Science ...)</span>
+                <span class="method-start">63668 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">71816 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">72675 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyPageTitle(Weekend University)</span>
+                <span class="method-start">90129 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">90177 ms</span>
+              </div> <!-- configuration-method after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

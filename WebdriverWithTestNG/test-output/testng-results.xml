@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86575" started-at="2015-01-11T11:36:42Z" finished-at="2015-01-11T11:38:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="86575" started-at="2015-01-11T11:36:42Z" finished-at="2015-01-11T11:38:09Z">
+      <class name="org.testng.homepage.HomePageTests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:org.testng.homepage.HomePageTests@6f7aebfe]" name="beforeTest" is-config="true" duration-ms="63" started-at="2015-01-11T17:06:42Z" finished-at="2015-01-11T17:06:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.testng.homepage.HomePageTests@6f7aebfe]" name="beforeMethod" is-config="true" duration-ms="23911" started-at="2015-01-11T17:06:42Z" finished-at="2015-01-11T17:07:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyPageTitle(java.lang.String)[pri:0, instance:org.testng.homepage.HomePageTests@6f7aebfe]" name="verifyPageTitle" duration-ms="136" started-at="2015-01-11T17:07:06Z" finished-at="2015-01-11T17:07:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Weekend University]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.testng.homepage.HomePageTests@6f7aebfe]" name="afterMethod" is-config="true" duration-ms="1141" started-at="2015-01-11T17:07:06Z" finished-at="2015-01-11T17:07:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.testng.homepage.HomePageTests@6f7aebfe]" name="beforeMethod" is-config="true" duration-ms="22525" started-at="2015-01-11T17:07:08Z" finished-at="2015-01-11T17:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifySuccessfullRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.testng.homepage.HomePageTests@6f7aebfe]" name="verifySuccessfullRegistration" duration-ms="7428" started-at="2015-01-11T17:07:30Z" data-provider="ReadExcel" finished-at="2015-01-11T17:07:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Brown]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mark]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[21/13 10th Street]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[River Side LA,USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Newark]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[New Jersey]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[4534534]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Bachelor of Science in Information Technology]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Essentials of Information Security]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Master of Science in Engineering Management]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Project Management]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[3534534435]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[mark.brown@gmail.com]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[mark.brown@gmail.com]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[1-800-624-9850]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySuccessfullRegistration -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.testng.homepage.HomePageTests@6f7aebfe]" name="afterMethod" is-config="true" duration-ms="2102" started-at="2015-01-11T17:07:38Z" finished-at="2015-01-11T17:07:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.testng.homepage.HomePageTests@6f7aebfe]" name="beforeMethod" is-config="true" duration-ms="22285" started-at="2015-01-11T17:07:40Z" finished-at="2015-01-11T17:08:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifySuccessfullRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.testng.homepage.HomePageTests@6f7aebfe]" name="verifySuccessfullRegistration" duration-ms="5960" started-at="2015-01-11T17:08:02Z" data-provider="ReadExcel" finished-at="2015-01-11T17:08:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Brown]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mark]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[21/13 10th Street]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[River Side LA,USA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Newark]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[New Jersey]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[4534534]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Bachelor of Science in Information Technology]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Essentials of Information Security]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Master of Science in Engineering Management]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Project Management]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[3534534435]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[mark.brown@gmail.com]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[mark.brown@gmail.com]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[1-800-624-9850]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySuccessfullRegistration -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.testng.homepage.HomePageTests@6f7aebfe]" name="afterMethod" is-config="true" duration-ms="625" started-at="2015-01-11T17:08:08Z" finished-at="2015-01-11T17:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- org.testng.homepage.HomePageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

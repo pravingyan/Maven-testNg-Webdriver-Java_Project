@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll">
+
+	
+
+	<test name="HomePage Tests">
+		<classes>
+			<class name="org.testng.homepage.HomePageTests" />
+			<methods>
+				<parameter name="homePageTitle" value="Weekend University" />
+				<include name="verifySuccessfullRegistration" />
+				<include name="verifyPageTitle" />
+			</methods>
+		</classes>
+	</test>
+
+</suite>

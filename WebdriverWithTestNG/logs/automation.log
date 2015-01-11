@@ -1,0 +1,690 @@
+01/11/2015 17:03:09.474 IST INFO  (utilities.Logg:>>><init>:[19]) Reporting file name:report-01-11-2015_05.03.09.html
+----------------------------------------------------------------
+01/11/2015 17:03:09.490 IST INFO  (utilities.Logg:>>>generateReport:[26]) Generating static part of the report
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) Brown
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) Mark
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) 21/13 10th Street
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) River Side LA,USA
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) Newark
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) New Jersey
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) 4534534
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) Bachelor of Science in Information Technology
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) Essentials of Information Security
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) Master of Science in Engineering Management
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) Project Management
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) 3534534435
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) mark.brown@gmail.com
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) mark.brown@gmail.com
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) 1-800-624-9850
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) Brown
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) Mark
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) 21/13 10th Street
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) River Side LA,USA
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) Newark
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) New Jersey
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) 4534534
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) Bachelor of Science in Information Technology
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) Essentials of Information Security
+----------------------------------------------------------------
+01/11/2015 17:03:10.319 IST INFO  (utilities.Logg:>>>readTestData:[35]) Master of Science in Engineering Management
+----------------------------------------------------------------
+01/11/2015 17:03:10.334 IST INFO  (utilities.Logg:>>>readTestData:[35]) Project Management
+----------------------------------------------------------------
+01/11/2015 17:03:10.334 IST INFO  (utilities.Logg:>>>readTestData:[35]) 3534534435
+----------------------------------------------------------------
+01/11/2015 17:03:10.334 IST INFO  (utilities.Logg:>>>readTestData:[35]) mark.brown@gmail.com
+----------------------------------------------------------------
+01/11/2015 17:03:10.334 IST INFO  (utilities.Logg:>>>readTestData:[35]) mark.brown@gmail.com
+----------------------------------------------------------------
+01/11/2015 17:03:10.334 IST INFO  (utilities.Logg:>>>readTestData:[35]) 1-800-624-9850
+----------------------------------------------------------------
+01/11/2015 17:03:10.350 IST INFO  (utilities.Logg:>>>getDriver:[31]) **FireFox Browser**
+----------------------------------------------------------------
+01/11/2015 17:03:10.350 IST INFO  (utilities.Logg:>>>getDriver:[32]) Intantiating/Launching the FireFox Browser
+----------------------------------------------------------------
+01/11/2015 17:03:38.738 IST INFO  (utilities.Logg:>>>getDriver:[42]) Returning the instance of:FirefoxDriver: firefox on WINDOWS (67feebe1-d78d-4297-8cd6-6460499d6b8a)
+----------------------------------------------------------------
+01/11/2015 17:03:38.738 IST INFO  (utilities.Logg:>>>openURL:[26]) Navigating to Application URL:http://dl.njit.edu/LP/wu.html
+----------------------------------------------------------------
+01/11/2015 17:03:44.928 IST INFO  (utilities.Logg:>>>openURL:[30]) Successfully navigated to the Application URL
+----------------------------------------------------------------
+01/11/2015 17:03:45.101 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:03:45.398 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:47.304 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:Brown in text box with locator:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:03:47.304 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: first
+----------------------------------------------------------------
+01/11/2015 17:03:47.352 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:47.461 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:Mark in text box with locator:By.id: first
+----------------------------------------------------------------
+01/11/2015 17:03:47.461 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: address1
+----------------------------------------------------------------
+01/11/2015 17:03:47.539 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:47.633 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:21/13 10th Street in text box with locator:By.id: address1
+----------------------------------------------------------------
+01/11/2015 17:03:47.633 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: address2
+----------------------------------------------------------------
+01/11/2015 17:03:47.696 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:47.821 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:River Side LA,USA in text box with locator:By.id: address2
+----------------------------------------------------------------
+01/11/2015 17:03:47.836 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: city
+----------------------------------------------------------------
+01/11/2015 17:03:47.883 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:48.024 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:River Side LA,USA in text box with locator:By.id: city
+----------------------------------------------------------------
+01/11/2015 17:03:48.024 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: state
+----------------------------------------------------------------
+01/11/2015 17:03:48.086 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:48.196 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:River Side LA,USA in text box with locator:By.id: state
+----------------------------------------------------------------
+01/11/2015 17:03:48.196 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: zip
+----------------------------------------------------------------
+01/11/2015 17:03:48.274 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:48.352 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:4534534 in text box with locator:By.id: zip
+----------------------------------------------------------------
+01/11/2015 17:03:48.352 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: undergraduate program
+----------------------------------------------------------------
+01/11/2015 17:03:48.401 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:48.776 IST INFO  (utilities.Logg:>>>selectFromDropDown:[64]) Selected:Bachelor of Science in Information Technology from drop-down with locator:By.id: undergraduate program
+----------------------------------------------------------------
+01/11/2015 17:03:48.776 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: undergraduate certificate
+----------------------------------------------------------------
+01/11/2015 17:03:48.807 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:49.151 IST INFO  (utilities.Logg:>>>selectFromDropDown:[64]) Selected:Essentials of Information Security from drop-down with locator:By.id: undergraduate certificate
+----------------------------------------------------------------
+01/11/2015 17:03:49.151 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: graduate certificate
+----------------------------------------------------------------
+01/11/2015 17:03:49.198 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:49.698 IST INFO  (utilities.Logg:>>>selectFromDropDown:[64]) Selected:Project Management from drop-down with locator:By.id: graduate certificate
+----------------------------------------------------------------
+01/11/2015 17:03:49.698 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: graduate program
+----------------------------------------------------------------
+01/11/2015 17:03:49.763 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:50.107 IST INFO  (utilities.Logg:>>>selectFromDropDown:[64]) Selected:Master of Science in Engineering Management from drop-down with locator:By.id: graduate program
+----------------------------------------------------------------
+01/11/2015 17:03:50.107 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: phone-area code
+----------------------------------------------------------------
+01/11/2015 17:03:50.170 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:50.232 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:353 in text box with locator:By.id: phone-area code
+----------------------------------------------------------------
+01/11/2015 17:03:50.232 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: phone-first three digits
+----------------------------------------------------------------
+01/11/2015 17:03:50.279 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:50.341 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:453 in text box with locator:By.id: phone-first three digits
+----------------------------------------------------------------
+01/11/2015 17:03:50.341 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: phone-last four digits
+----------------------------------------------------------------
+01/11/2015 17:03:50.404 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:50.466 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:4435 in text box with locator:By.id: phone-last four digits
+----------------------------------------------------------------
+01/11/2015 17:03:50.466 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: e-mail
+----------------------------------------------------------------
+01/11/2015 17:03:50.513 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:50.623 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:mark.brown@gmail.com in text box with locator:By.id: e-mail
+----------------------------------------------------------------
+01/11/2015 17:03:50.623 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: verify e-mail
+----------------------------------------------------------------
+01/11/2015 17:03:50.670 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:50.795 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:mark.brown@gmail.com in text box with locator:By.id: verify e-mail
+----------------------------------------------------------------
+01/11/2015 17:03:50.795 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:03:50.827 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:52.639 IST INFO  (utilities.Logg:>>>submitForm:[58]) Clicked on form submit button:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:03:52.639 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.selector: table#perfect>tbody>tr>td>font
+----------------------------------------------------------------
+01/11/2015 17:03:52.672 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:52.719 IST INFO  (utilities.Logg:>>>getText:[68]) Actual Value:Thank you for your interest in NJIT's Division of Continuing Professional Education. Someone from our Weekend University team will contact you within 24 hours during NJIT business hours Mon- Fri, 8:30AM - 4:30PM. You may also reach out to us at 1-800-624-9850.
+----------------------------------------------------------------
+01/11/2015 17:03:52.719 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.selector: table#perfect>tbody>tr>td>font
+----------------------------------------------------------------
+01/11/2015 17:03:52.750 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:03:52.781 IST INFO  (utilities.Logg:>>>comparePartialText:[84]) Result of partial comparison is true
+----------------------------------------------------------------
+01/11/2015 17:03:52.797 IST INFO  (utilities.Logg:>>>closeBrowser:[40]) Closing the browser
+----------------------------------------------------------------
+01/11/2015 17:03:53.469 IST INFO  (utilities.Logg:>>>resetDriver:[47]) Resetting the instance of:FirefoxDriver: firefox on WINDOWS (null) to null
+----------------------------------------------------------------
+01/11/2015 17:03:53.469 IST INFO  (utilities.Logg:>>>closeBrowser:[43]) Sucessfully closed the browser
+
+----------------------------------------------------------------
+01/11/2015 17:03:53.469 IST INFO  (utilities.Logg:>>>getDriver:[31]) **FireFox Browser**
+----------------------------------------------------------------
+01/11/2015 17:03:53.469 IST INFO  (utilities.Logg:>>>getDriver:[32]) Intantiating/Launching the FireFox Browser
+----------------------------------------------------------------
+01/11/2015 17:04:06.060 IST INFO  (utilities.Logg:>>>getDriver:[42]) Returning the instance of:FirefoxDriver: firefox on WINDOWS (6284b4c4-4990-45b8-843a-991880c208a4)
+----------------------------------------------------------------
+01/11/2015 17:04:06.060 IST INFO  (utilities.Logg:>>>openURL:[26]) Navigating to Application URL:http://dl.njit.edu/LP/wu.html
+----------------------------------------------------------------
+01/11/2015 17:04:13.064 IST INFO  (utilities.Logg:>>>openURL:[30]) Successfully navigated to the Application URL
+----------------------------------------------------------------
+01/11/2015 17:04:13.064 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:04:13.315 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:13.425 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:Brown in text box with locator:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:04:13.425 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: first
+----------------------------------------------------------------
+01/11/2015 17:04:16.629 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:16.708 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:Mark in text box with locator:By.id: first
+----------------------------------------------------------------
+01/11/2015 17:04:16.708 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: address1
+----------------------------------------------------------------
+01/11/2015 17:04:16.771 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:16.880 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:21/13 10th Street in text box with locator:By.id: address1
+----------------------------------------------------------------
+01/11/2015 17:04:16.880 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: address2
+----------------------------------------------------------------
+01/11/2015 17:04:16.943 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:17.052 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:River Side LA,USA in text box with locator:By.id: address2
+----------------------------------------------------------------
+01/11/2015 17:04:17.052 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: city
+----------------------------------------------------------------
+01/11/2015 17:04:17.099 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:17.193 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:River Side LA,USA in text box with locator:By.id: city
+----------------------------------------------------------------
+01/11/2015 17:04:17.193 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: state
+----------------------------------------------------------------
+01/11/2015 17:04:17.224 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:17.349 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:River Side LA,USA in text box with locator:By.id: state
+----------------------------------------------------------------
+01/11/2015 17:04:17.349 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: zip
+----------------------------------------------------------------
+01/11/2015 17:04:17.411 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:17.490 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:4534534 in text box with locator:By.id: zip
+----------------------------------------------------------------
+01/11/2015 17:04:17.490 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: undergraduate program
+----------------------------------------------------------------
+01/11/2015 17:04:17.521 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:17.849 IST INFO  (utilities.Logg:>>>selectFromDropDown:[64]) Selected:Bachelor of Science in Information Technology from drop-down with locator:By.id: undergraduate program
+----------------------------------------------------------------
+01/11/2015 17:04:17.849 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: undergraduate certificate
+----------------------------------------------------------------
+01/11/2015 17:04:17.881 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:18.100 IST INFO  (utilities.Logg:>>>selectFromDropDown:[64]) Selected:Essentials of Information Security from drop-down with locator:By.id: undergraduate certificate
+----------------------------------------------------------------
+01/11/2015 17:04:18.100 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: graduate certificate
+----------------------------------------------------------------
+01/11/2015 17:04:18.131 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:18.444 IST INFO  (utilities.Logg:>>>selectFromDropDown:[64]) Selected:Project Management from drop-down with locator:By.id: graduate certificate
+----------------------------------------------------------------
+01/11/2015 17:04:18.444 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: graduate program
+----------------------------------------------------------------
+01/11/2015 17:04:18.491 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:18.741 IST INFO  (utilities.Logg:>>>selectFromDropDown:[64]) Selected:Master of Science in Engineering Management from drop-down with locator:By.id: graduate program
+----------------------------------------------------------------
+01/11/2015 17:04:18.756 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: phone-area code
+----------------------------------------------------------------
+01/11/2015 17:04:18.788 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:18.850 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:353 in text box with locator:By.id: phone-area code
+----------------------------------------------------------------
+01/11/2015 17:04:18.866 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: phone-first three digits
+----------------------------------------------------------------
+01/11/2015 17:04:18.898 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:18.945 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:453 in text box with locator:By.id: phone-first three digits
+----------------------------------------------------------------
+01/11/2015 17:04:18.945 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: phone-last four digits
+----------------------------------------------------------------
+01/11/2015 17:04:19.007 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:19.085 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:4435 in text box with locator:By.id: phone-last four digits
+----------------------------------------------------------------
+01/11/2015 17:04:19.085 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: e-mail
+----------------------------------------------------------------
+01/11/2015 17:04:19.132 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:19.226 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:mark.brown@gmail.com in text box with locator:By.id: e-mail
+----------------------------------------------------------------
+01/11/2015 17:04:19.226 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: verify e-mail
+----------------------------------------------------------------
+01/11/2015 17:04:19.257 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:19.335 IST INFO  (utilities.Logg:>>>enterText:[48]) Entered text:mark.brown@gmail.com in text box with locator:By.id: verify e-mail
+----------------------------------------------------------------
+01/11/2015 17:04:19.335 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:04:19.382 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:21.070 IST INFO  (utilities.Logg:>>>submitForm:[58]) Clicked on form submit button:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:04:21.070 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.selector: table#perfect>tbody>tr>td>font
+----------------------------------------------------------------
+01/11/2015 17:04:21.118 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:21.149 IST INFO  (utilities.Logg:>>>getText:[68]) Actual Value:Thank you for your interest in NJIT's Division of Continuing Professional Education. Someone from our Weekend University team will contact you within 24 hours during NJIT business hours Mon- Fri, 8:30AM - 4:30PM. You may also reach out to us at 1-800-624-9850.
+----------------------------------------------------------------
+01/11/2015 17:04:21.149 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.selector: table#perfect>tbody>tr>td>font
+----------------------------------------------------------------
+01/11/2015 17:04:21.180 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:04:21.212 IST INFO  (utilities.Logg:>>>comparePartialText:[84]) Result of partial comparison is true
+----------------------------------------------------------------
+01/11/2015 17:04:21.212 IST INFO  (utilities.Logg:>>>closeBrowser:[40]) Closing the browser
+----------------------------------------------------------------
+01/11/2015 17:04:22.071 IST INFO  (utilities.Logg:>>>resetDriver:[47]) Resetting the instance of:FirefoxDriver: firefox on WINDOWS (null) to null
+----------------------------------------------------------------
+01/11/2015 17:04:22.071 IST INFO  (utilities.Logg:>>>closeBrowser:[43]) Sucessfully closed the browser
+
+----------------------------------------------------------------
+01/11/2015 17:04:22.071 IST INFO  (utilities.Logg:>>>getDriver:[31]) **FireFox Browser**
+----------------------------------------------------------------
+01/11/2015 17:04:22.071 IST INFO  (utilities.Logg:>>>getDriver:[32]) Intantiating/Launching the FireFox Browser
+----------------------------------------------------------------
+01/11/2015 17:04:32.042 IST INFO  (utilities.Logg:>>>getDriver:[42]) Returning the instance of:FirefoxDriver: firefox on WINDOWS (5ad03ca5-71df-4682-978a-424fbc1219db)
+----------------------------------------------------------------
+01/11/2015 17:04:32.042 IST INFO  (utilities.Logg:>>>openURL:[26]) Navigating to Application URL:http://dl.njit.edu/LP/wu.html
+----------------------------------------------------------------
+01/11/2015 17:04:39.525 IST INFO  (utilities.Logg:>>>openURL:[30]) Successfully navigated to the Application URL
+----------------------------------------------------------------
+01/11/2015 17:04:39.558 IST INFO  (utilities.Logg:>>>getTitle:[74]) Title of the page:Weekend University
+----------------------------------------------------------------
+01/11/2015 17:04:39.573 IST INFO  (utilities.Logg:>>>closeBrowser:[40]) Closing the browser
+----------------------------------------------------------------
+01/11/2015 17:04:40.349 IST INFO  (utilities.Logg:>>>resetDriver:[47]) Resetting the instance of:FirefoxDriver: firefox on WINDOWS (null) to null
+----------------------------------------------------------------
+01/11/2015 17:04:40.349 IST INFO  (utilities.Logg:>>>closeBrowser:[43]) Sucessfully closed the browser
+
+----------------------------------------------------------------
+01/11/2015 17:06:42.657 IST INFO  (utilities.Logg:>>><init>:[19]) Reporting file name:report-01-11-2015_05.06.42.html
+----------------------------------------------------------------
+01/11/2015 17:06:42.688 IST INFO  (utilities.Logg:>>>generateReport:[26]) Generating static part of the report
+----------------------------------------------------------------
+01/11/2015 17:06:42.719 IST INFO  (utilities.Logg:>>>getDriver:[31]) **FireFox Browser**
+----------------------------------------------------------------
+01/11/2015 17:06:42.719 IST INFO  (utilities.Logg:>>>getDriver:[32]) Intantiating/Launching the FireFox Browser
+----------------------------------------------------------------
+01/11/2015 17:07:00.687 IST INFO  (utilities.Logg:>>>getDriver:[42]) Returning the instance of:FirefoxDriver: firefox on WINDOWS (952f2224-f579-40f5-b9a7-287a0ad7b9b9)
+----------------------------------------------------------------
+01/11/2015 17:07:00.830 IST INFO  (utilities.Logg:>>>openURL:[31]) Navigating to Application URL:http://dl.njit.edu/LP/wu.html
+----------------------------------------------------------------
+01/11/2015 17:07:06.630 IST INFO  (utilities.Logg:>>>openURL:[35]) Successfully navigated to the Application URL
+----------------------------------------------------------------
+01/11/2015 17:07:06.735 IST INFO  (utilities.Logg:>>>getTitle:[79]) Title of the page:Weekend University
+----------------------------------------------------------------
+01/11/2015 17:07:06.766 IST INFO  (utilities.Logg:>>>closeBrowser:[45]) Closing the browser
+----------------------------------------------------------------
+01/11/2015 17:07:07.907 IST INFO  (utilities.Logg:>>>resetDriver:[47]) Resetting the instance of:FirefoxDriver: firefox on WINDOWS (null) to null
+----------------------------------------------------------------
+01/11/2015 17:07:07.907 IST INFO  (utilities.Logg:>>>closeBrowser:[48]) Sucessfully closed the browser
+
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) Brown
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) Mark
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) 21/13 10th Street
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) River Side LA,USA
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) Newark
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) New Jersey
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) 4534534
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) Bachelor of Science in Information Technology
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) Essentials of Information Security
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) Master of Science in Engineering Management
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) Project Management
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) 3534534435
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) mark.brown@gmail.com
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) mark.brown@gmail.com
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) 1-800-624-9850
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) Brown
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) Mark
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) 21/13 10th Street
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) River Side LA,USA
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) Newark
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) New Jersey
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) 4534534
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) Bachelor of Science in Information Technology
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) Essentials of Information Security
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) Master of Science in Engineering Management
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) Project Management
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) 3534534435
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) mark.brown@gmail.com
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) mark.brown@gmail.com
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>readTestData:[35]) 1-800-624-9850
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>getDriver:[31]) **FireFox Browser**
+----------------------------------------------------------------
+01/11/2015 17:07:08.243 IST INFO  (utilities.Logg:>>>getDriver:[32]) Intantiating/Launching the FireFox Browser
+----------------------------------------------------------------
+01/11/2015 17:07:24.470 IST INFO  (utilities.Logg:>>>getDriver:[42]) Returning the instance of:FirefoxDriver: firefox on WINDOWS (e49bbcf4-c7c0-4475-bb03-cbdbb2fdb7b4)
+----------------------------------------------------------------
+01/11/2015 17:07:24.549 IST INFO  (utilities.Logg:>>>openURL:[31]) Navigating to Application URL:http://dl.njit.edu/LP/wu.html
+----------------------------------------------------------------
+01/11/2015 17:07:30.768 IST INFO  (utilities.Logg:>>>openURL:[35]) Successfully navigated to the Application URL
+----------------------------------------------------------------
+01/11/2015 17:07:30.801 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:07:31.051 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:33.394 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:Brown in text box with locator:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:07:33.394 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: first
+----------------------------------------------------------------
+01/11/2015 17:07:33.458 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:33.536 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:Mark in text box with locator:By.id: first
+----------------------------------------------------------------
+01/11/2015 17:07:33.536 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: address1
+----------------------------------------------------------------
+01/11/2015 17:07:33.583 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:33.692 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:21/13 10th Street in text box with locator:By.id: address1
+----------------------------------------------------------------
+01/11/2015 17:07:33.692 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: address2
+----------------------------------------------------------------
+01/11/2015 17:07:33.724 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:33.895 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:River Side LA,USA in text box with locator:By.id: address2
+----------------------------------------------------------------
+01/11/2015 17:07:33.895 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: city
+----------------------------------------------------------------
+01/11/2015 17:07:33.942 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:34.020 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:River Side LA,USA in text box with locator:By.id: city
+----------------------------------------------------------------
+01/11/2015 17:07:34.020 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: state
+----------------------------------------------------------------
+01/11/2015 17:07:34.099 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:34.192 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:River Side LA,USA in text box with locator:By.id: state
+----------------------------------------------------------------
+01/11/2015 17:07:34.192 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: zip
+----------------------------------------------------------------
+01/11/2015 17:07:34.286 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:34.380 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:4534534 in text box with locator:By.id: zip
+----------------------------------------------------------------
+01/11/2015 17:07:34.380 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: undergraduate program
+----------------------------------------------------------------
+01/11/2015 17:07:34.442 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:34.757 IST INFO  (utilities.Logg:>>>selectFromDropDown:[69]) Selected:Bachelor of Science in Information Technology from drop-down with locator:By.id: undergraduate program
+----------------------------------------------------------------
+01/11/2015 17:07:34.757 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: undergraduate certificate
+----------------------------------------------------------------
+01/11/2015 17:07:34.804 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:35.054 IST INFO  (utilities.Logg:>>>selectFromDropDown:[69]) Selected:Essentials of Information Security from drop-down with locator:By.id: undergraduate certificate
+----------------------------------------------------------------
+01/11/2015 17:07:35.054 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: graduate certificate
+----------------------------------------------------------------
+01/11/2015 17:07:35.101 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:35.398 IST INFO  (utilities.Logg:>>>selectFromDropDown:[69]) Selected:Project Management from drop-down with locator:By.id: graduate certificate
+----------------------------------------------------------------
+01/11/2015 17:07:35.398 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: graduate program
+----------------------------------------------------------------
+01/11/2015 17:07:35.444 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:35.710 IST INFO  (utilities.Logg:>>>selectFromDropDown:[69]) Selected:Master of Science in Engineering Management from drop-down with locator:By.id: graduate program
+----------------------------------------------------------------
+01/11/2015 17:07:35.710 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: phone-area code
+----------------------------------------------------------------
+01/11/2015 17:07:35.758 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:35.821 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:353 in text box with locator:By.id: phone-area code
+----------------------------------------------------------------
+01/11/2015 17:07:35.821 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: phone-first three digits
+----------------------------------------------------------------
+01/11/2015 17:07:35.867 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:35.930 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:453 in text box with locator:By.id: phone-first three digits
+----------------------------------------------------------------
+01/11/2015 17:07:35.930 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: phone-last four digits
+----------------------------------------------------------------
+01/11/2015 17:07:35.977 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:36.055 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:4435 in text box with locator:By.id: phone-last four digits
+----------------------------------------------------------------
+01/11/2015 17:07:36.055 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: e-mail
+----------------------------------------------------------------
+01/11/2015 17:07:36.102 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:36.196 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:mark.brown@gmail.com in text box with locator:By.id: e-mail
+----------------------------------------------------------------
+01/11/2015 17:07:36.196 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: verify e-mail
+----------------------------------------------------------------
+01/11/2015 17:07:36.227 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:36.336 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:mark.brown@gmail.com in text box with locator:By.id: verify e-mail
+----------------------------------------------------------------
+01/11/2015 17:07:36.336 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:07:36.367 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:38.086 IST INFO  (utilities.Logg:>>>submitForm:[63]) Clicked on form submit button:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:07:38.086 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.selector: table#perfect>tbody>tr>td>font
+----------------------------------------------------------------
+01/11/2015 17:07:38.119 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:38.165 IST INFO  (utilities.Logg:>>>getText:[73]) Actual Value:Thank you for your interest in NJIT's Division of Continuing Professional Education. Someone from our Weekend University team will contact you within 24 hours during NJIT business hours Mon- Fri, 8:30AM - 4:30PM. You may also reach out to us at 1-800-624-9850.
+----------------------------------------------------------------
+01/11/2015 17:07:38.165 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.selector: table#perfect>tbody>tr>td>font
+----------------------------------------------------------------
+01/11/2015 17:07:38.197 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:07:38.212 IST INFO  (utilities.Logg:>>>comparePartialText:[89]) Result of partial comparison is true
+----------------------------------------------------------------
+01/11/2015 17:07:38.228 IST INFO  (utilities.Logg:>>>closeBrowser:[45]) Closing the browser
+----------------------------------------------------------------
+01/11/2015 17:07:40.330 IST INFO  (utilities.Logg:>>>resetDriver:[47]) Resetting the instance of:FirefoxDriver: firefox on WINDOWS (null) to null
+----------------------------------------------------------------
+01/11/2015 17:07:40.330 IST INFO  (utilities.Logg:>>>closeBrowser:[48]) Sucessfully closed the browser
+
+----------------------------------------------------------------
+01/11/2015 17:07:40.330 IST INFO  (utilities.Logg:>>>getDriver:[31]) **FireFox Browser**
+----------------------------------------------------------------
+01/11/2015 17:07:40.330 IST INFO  (utilities.Logg:>>>getDriver:[32]) Intantiating/Launching the FireFox Browser
+----------------------------------------------------------------
+01/11/2015 17:07:56.787 IST INFO  (utilities.Logg:>>>getDriver:[42]) Returning the instance of:FirefoxDriver: firefox on WINDOWS (640349a5-2b11-4300-97d9-73fd40aa2f0c)
+----------------------------------------------------------------
+01/11/2015 17:07:56.899 IST INFO  (utilities.Logg:>>>openURL:[31]) Navigating to Application URL:http://dl.njit.edu/LP/wu.html
+----------------------------------------------------------------
+01/11/2015 17:08:02.615 IST INFO  (utilities.Logg:>>>openURL:[35]) Successfully navigated to the Application URL
+----------------------------------------------------------------
+01/11/2015 17:08:02.615 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:08:02.772 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:02.897 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:Brown in text box with locator:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:08:02.897 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: first
+----------------------------------------------------------------
+01/11/2015 17:08:03.866 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:04.008 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:Mark in text box with locator:By.id: first
+----------------------------------------------------------------
+01/11/2015 17:08:04.008 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: address1
+----------------------------------------------------------------
+01/11/2015 17:08:04.055 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:04.164 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:21/13 10th Street in text box with locator:By.id: address1
+----------------------------------------------------------------
+01/11/2015 17:08:04.164 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: address2
+----------------------------------------------------------------
+01/11/2015 17:08:04.227 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:04.367 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:River Side LA,USA in text box with locator:By.id: address2
+----------------------------------------------------------------
+01/11/2015 17:08:04.367 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: city
+----------------------------------------------------------------
+01/11/2015 17:08:04.430 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:04.524 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:River Side LA,USA in text box with locator:By.id: city
+----------------------------------------------------------------
+01/11/2015 17:08:04.524 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: state
+----------------------------------------------------------------
+01/11/2015 17:08:04.570 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:04.664 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:River Side LA,USA in text box with locator:By.id: state
+----------------------------------------------------------------
+01/11/2015 17:08:04.664 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: zip
+----------------------------------------------------------------
+01/11/2015 17:08:04.727 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:04.805 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:4534534 in text box with locator:By.id: zip
+----------------------------------------------------------------
+01/11/2015 17:08:04.805 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: undergraduate program
+----------------------------------------------------------------
+01/11/2015 17:08:04.867 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:05.196 IST INFO  (utilities.Logg:>>>selectFromDropDown:[69]) Selected:Bachelor of Science in Information Technology from drop-down with locator:By.id: undergraduate program
+----------------------------------------------------------------
+01/11/2015 17:08:05.196 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: undergraduate certificate
+----------------------------------------------------------------
+01/11/2015 17:08:05.290 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:05.540 IST INFO  (utilities.Logg:>>>selectFromDropDown:[69]) Selected:Essentials of Information Security from drop-down with locator:By.id: undergraduate certificate
+----------------------------------------------------------------
+01/11/2015 17:08:05.540 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: graduate certificate
+----------------------------------------------------------------
+01/11/2015 17:08:05.587 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:05.837 IST INFO  (utilities.Logg:>>>selectFromDropDown:[69]) Selected:Project Management from drop-down with locator:By.id: graduate certificate
+----------------------------------------------------------------
+01/11/2015 17:08:05.837 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: graduate program
+----------------------------------------------------------------
+01/11/2015 17:08:05.884 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:06.135 IST INFO  (utilities.Logg:>>>selectFromDropDown:[69]) Selected:Master of Science in Engineering Management from drop-down with locator:By.id: graduate program
+----------------------------------------------------------------
+01/11/2015 17:08:06.135 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: phone-area code
+----------------------------------------------------------------
+01/11/2015 17:08:06.182 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:06.260 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:353 in text box with locator:By.id: phone-area code
+----------------------------------------------------------------
+01/11/2015 17:08:06.260 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: phone-first three digits
+----------------------------------------------------------------
+01/11/2015 17:08:06.401 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:06.432 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:453 in text box with locator:By.id: phone-first three digits
+----------------------------------------------------------------
+01/11/2015 17:08:06.448 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: phone-last four digits
+----------------------------------------------------------------
+01/11/2015 17:08:06.494 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:06.557 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:4435 in text box with locator:By.id: phone-last four digits
+----------------------------------------------------------------
+01/11/2015 17:08:06.557 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: e-mail
+----------------------------------------------------------------
+01/11/2015 17:08:06.604 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:06.698 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:mark.brown@gmail.com in text box with locator:By.id: e-mail
+----------------------------------------------------------------
+01/11/2015 17:08:06.698 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: verify e-mail
+----------------------------------------------------------------
+01/11/2015 17:08:06.744 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:06.854 IST INFO  (utilities.Logg:>>>enterText:[53]) Entered text:mark.brown@gmail.com in text box with locator:By.id: verify e-mail
+----------------------------------------------------------------
+01/11/2015 17:08:06.854 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:08:06.901 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:08.417 IST INFO  (utilities.Logg:>>>submitForm:[63]) Clicked on form submit button:By.id: last
+----------------------------------------------------------------
+01/11/2015 17:08:08.417 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.selector: table#perfect>tbody>tr>td>font
+----------------------------------------------------------------
+01/11/2015 17:08:08.481 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:08.512 IST INFO  (utilities.Logg:>>>getText:[73]) Actual Value:Thank you for your interest in NJIT's Division of Continuing Professional Education. Someone from our Weekend University team will contact you within 24 hours during NJIT business hours Mon- Fri, 8:30AM - 4:30PM. You may also reach out to us at 1-800-624-9850.
+----------------------------------------------------------------
+01/11/2015 17:08:08.512 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[21]) Waiting for the visibility of the element:By.selector: table#perfect>tbody>tr>td>font
+----------------------------------------------------------------
+01/11/2015 17:08:08.543 IST INFO  (utilities.Logg:>>>waitForElementVisibility:[25]) WebElement Visible. Proceedign further...
+----------------------------------------------------------------
+01/11/2015 17:08:08.575 IST INFO  (utilities.Logg:>>>comparePartialText:[89]) Result of partial comparison is true
+----------------------------------------------------------------
+01/11/2015 17:08:08.575 IST INFO  (utilities.Logg:>>>closeBrowser:[45]) Closing the browser
+----------------------------------------------------------------
+01/11/2015 17:08:09.200 IST INFO  (utilities.Logg:>>>resetDriver:[47]) Resetting the instance of:FirefoxDriver: firefox on WINDOWS (null) to null
+----------------------------------------------------------------
+01/11/2015 17:08:09.200 IST INFO  (utilities.Logg:>>>closeBrowser:[48]) Sucessfully closed the browser
+
+----------------------------------------------------------------
